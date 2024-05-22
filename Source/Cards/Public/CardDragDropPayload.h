@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Components/DragActorComponent/DragActorComponent.h"
+#include "Components/DragActorComponent.h"
 #include "CardDragDropPayload.generated.h"
 
 /**

@@ -2,8 +2,6 @@
 
 
 #include "CommandScorer.h"
-#include "CommandTransferCards.h"
-#include "CommandFlipCard.h"
 
 // Sets default values for this component's properties
 UCommandScorer::UCommandScorer()
