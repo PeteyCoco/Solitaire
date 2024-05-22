@@ -7,7 +7,7 @@ This project serves as a demonstration of my knowledge of C++ and Blueprints in 
 
 # Design considerations
 
-The game logic has primarily been implemented in Blueprints for ease of experimentation. C++ is only used in places where a designer is unlikely to need access (e.g. the code movement component code) and where code is unlikely to change. This reflects my effort to maintain a data-driven approach where possible.
+The game logic has primarily been implemented in Blueprints for ease of experimentation. C++ is only used in places where a designer is unlikely to need access (e.g. the card movement component code) and where code is unlikely to change. This reflects my effort to maintain a data-driven approach where possible.
 
 # Features
 
